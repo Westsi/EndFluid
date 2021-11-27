@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "endupdate:endified_porkchop"
+  },
+  "result": "endupdate:cooked_endified_porkchop",
+  "experience": 1.0,
+  "cookingtime": 100
+}

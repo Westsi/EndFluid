@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endupdate:enderite_ore"
+    },
+    {
+      "item": "endupdate:enderite_ore"
+    },
+    {
+      "item": "endupdate:enderite_ore"
+    },
+    {
+      "item": "endupdate:enderite_ore"
+    },
+    {
+      "item": "endupdate:enderite_ore"
+    },
+    {
+      "item": "endupdate:enderite_ore"
+    },
+    {
+      "item": "endupdate:enderite_ore"
+    },
+    {
+      "item": "endupdate:enderite_ore"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "endupdate:enderite"
+  }
+}

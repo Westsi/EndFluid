@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endupdate:dead_wood"
+    },
+    {
+      "item": "endupdate:dead_wood"
+    },
+    {
+      "item": "endupdate:dead_wood"
+    },
+    {
+      "item": "endupdate:dead_wood"
+    },
+    {
+      "item": "endupdate:reciever_special"
+    },
+    {
+      "item": "endupdate:enderite"
+    }
+  ],
+  "result": {
+    "item": "endupdate:reciever_block"
+  }
+}

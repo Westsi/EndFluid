@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endupdate:dead_wood"
+    }
+  ],
+  "result": {
+    "item": "endupdate:dead_wood_planks",
+    "count": 4
+  }
+}

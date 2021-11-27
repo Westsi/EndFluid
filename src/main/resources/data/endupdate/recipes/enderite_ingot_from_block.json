@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endupdate:enderite_block"
+    }
+  ],
+  "result": {
+    "item": "endupdate:enderite",
+    "count": 9
+  }
+}
