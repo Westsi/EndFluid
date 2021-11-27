@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "endupdate:block/end_dirt",
+    "down": "endupdate:block/end_dirt",
+    "up": "endupdate:block/end_grass_top",
+    "north": "endupdate:block/end_grass_side",
+    "east": "endupdate:block/end_grass_side",
+    "south": "endupdate:block/end_grass_side",
+    "west": "endupdate:block/end_grass_side"
+  }
+}

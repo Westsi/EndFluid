@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "endupdate:block/dead_wood_ud",
+    "side": "endupdate:block/dead_wood_side"
+  }
+}

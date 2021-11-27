@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "particle": "endupdate:block/dead_wood_planks",
+    "end": "endupdate:block/dead_wood_ud",
+    "side": "endupdate:block/dead_wood_side"
+  }
+}
